@@ -1,5 +1,5 @@
 <!-- ========================= -->
-<!-- 🌟 Varun Sharma | Software Development Engineer -->
+<!-- 🌟 Varun Sharma | Full-Stack Software Engineer -->
 <!-- ========================= -->
 
 <!-- HEADER BANNER -->
