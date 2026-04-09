@@ -4,7 +4,7 @@
 
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:9333ea&height=250&section=header&text=Varun%20Sharma%20💻&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Software%20Development%20Engineer%20|%20Full-Stack%20Developer&descAlignY=55&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:9333ea&height=250&section=header&text=Varun%20Sharma%20💻&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=55&animation=fadeIn" alt="header" />
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 
 ### 🚀 About Me  
 
-I am a **Software Development Engineer (SDE)** passionate about building **scalable, high-performance web applications** and solving real-world problems through clean, maintainable code.  
+I am a **Software Developer Engineer (SDE)** passionate about building **scalable, high-performance web applications** and solving real-world problems through clean, maintainable code.  
 
 💡 **Current Focus:** Full-stack projects using React, Node.js, and modern cloud solutions  
 🌱 **Learning:** System design, distributed systems, and advanced backend architecture  
