@@ -1,21 +1,17 @@
-
-
 <!-- ========================= -->
-<!-- 🌟 Varun Sharma | GitHub Profile README -->
+<!-- 🌟 Varun Sharma | Software Development Engineer -->
 <!-- ========================= -->
 
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:9333ea&height=230&section=header&text=Varun%20Sharma%20💻&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20|%20React%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=55&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:9333ea&height=250&section=header&text=Varun%20Sharma%20💻&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Software%20Development%20Engineer%20|%20Full-Stack%20Developer&descAlignY=55&animation=fadeIn" alt="header" />
 </div>
-
-
 
 <div align="center">
 
 📍 **Delhi, India**  
-📫 [varuncodev@gmail.com](mailto:varucodev@gmail.com)  
-🔗 [GitHub](https://github.com/varuncodev) | [LinkedIn](https://linkedin.com/in/varuncodev)  
+📫 [varuncodev@gmail.com](mailto:varuncodev@gmail.com)  
+🔗 [GitHub](https://github.com/varuncodev) | [LinkedIn](https://linkedin.com/in/varuncodev) | [Portfolio](#)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=varuncodev&label=Profile%20views&color=06b6d4&style=flat)
 
@@ -25,13 +21,11 @@
 
 ### 🚀 About Me  
 
-I'm a **Full-Stack Developer** passionate about creating beautiful, performant, and scalable web applications.  
-I love solving real-world problems through code and continuously improving my development skills.  
-Focused on **clean architecture**, **user experience**, and **team collaboration**.
+I am a **Software Development Engineer (SDE)** passionate about building **scalable, high-performance web applications** and solving real-world problems through clean, maintainable code.  
 
-💡 **Current Focus:** Building efficient full-stack applications using React, Node.js, and Tailwind CSS.  
-🌱 **Learning:** Advanced backend development and system design.  
-⚡ **Fun Fact:** I turn coffee ☕ into clean commits!
+💡 **Current Focus:** Full-stack projects using React, Node.js, and modern cloud solutions  
+🌱 **Learning:** System design, distributed systems, and advanced backend architecture  
+⚡ **Fun Fact:** I turn coffee ☕ into production-ready code  
 
 ---
 
@@ -39,65 +33,84 @@ Focused on **clean architecture**, **user experience**, and **team collaboration
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
 
-### 💼 Professional Experience  
+### 💼 Experience  
 
-**MERN-Stack Developer Intern — _NCA IT SOLUTION Pvt. Ltd._**  
-📍 *Delhi, India* | 📅 *January 2025 – March 2025*  
+**MERN Stack Developer Intern — _NCA IT SOLUTION Pvt. Ltd._**  
+📍 *Delhi, India* | 📅 *Jan 2025 – Mar 2025*  
 
-- Developed and maintained a **Construction Website** using React, Express, and MongoDB, improving content delivery efficiency by **30%**.  
-- Built and integrated **RESTful APIs** ensuring smooth client-server communication.  
-- Collaborated with cross-functional teams, reducing project revision cycles by **30%**.  
-- Integrated cloud services (**Cloudinary**, **CloudPDF**) to streamline file management and media handling.
+- Developed a **construction management platform** using React, Node.js, and MongoDB  
+- Built and integrated **RESTful APIs** to improve client-server efficiency  
+- Optimized performance, reducing load times by **30%**  
+- Integrated cloud services (**Cloudinary**, **CloudPDF**) for seamless media handling  
 
 ---
 
-### 🧩 Featured Projects  
+### 🧩 Projects  
 
-#### 🚀 Mark My Attendance – IP-Based Tracker  
-🔗 [View Code](#) | [Live Demo](#)  
+#### 1️⃣ Vault Key — Password Generator  
+**Tech Stack:** React, Vite, Tailwind CSS  
+- Real-time password generation with strength analysis  
+- Customizable character sets and length control  
+- One-click copy and regenerate functionality  
+- [GitHub](#) | [Live Demo](#)
+
+#### 2️⃣ Mark My Attendance — IP-Based Tracker  
 **Tech Stack:** React, Node.js, Tailwind CSS, Redux Toolkit  
+- Automated attendance tracking for 100+ users  
+- IP-based verification and role-based authentication  
+- Optimized REST APIs for backend performance  
+- [GitHub](#) | [Live Demo](#)
 
-- Automated attendance tracking for 100+ students via IP-based verification.  
-- Designed responsive UI components using Tailwind CSS.  
-- Enhanced backend efficiency with optimized REST APIs.  
-- Implemented authentication and role-based access for security.
+#### 3️⃣ Learning Management System (LMS)  
+**Tech Stack:** React, Node.js, MongoDB  
+- Corporate project (demo unavailable)  
+- Role-based access and responsive UI  
 
-#### 🎓 Learning Management System (LMS)  
-Corporate project — *demo and source code unavailable.*
+> 🔗 *You can replace these with your actual projects and live links.*
 
+---
+
+### 📊 GitHub Stats & Activity  
+
+<div align="center">
+
+![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varuncodev&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varuncodev&layout=compact&theme=radical&hide_border=true)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varuncodev&theme=radical&hide_border=true)  
+
+</div>
 
 ---
 
 ### 🏆 Achievements & Highlights  
 
-- 🧩 **Problem Solver:** Active on coding platforms solving DSA and logic-based problems.  
-- 🧠 **Team Leader:** Led small development teams during internships and hackathons.  
-- 🏏 **Leadership:** Represented college football team in inter-college tournaments.  
-- 💡 **Continuous Learner:** Exploring system design and cloud-based architectures.
+- 🧩 Strong problem-solving skills in DSA and system design  
+- 👨‍💻 Experience leading small development teams  
+- 🚀 Built scalable and efficient web applications  
+- 📚 Continuous learner exploring cloud, system design, and distributed systems  
 
 ---
-
 
 <!-- FOOTER -->
 <div align="center">
   
 ✨ **Thanks for visiting!**  
-Let’s connect and build something awesome together 🚀  
+Let’s connect and build something amazing 🚀  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:06b6d4&height=120&section=footer"/>
 
 </div>
-
-
----
