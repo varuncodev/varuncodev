@@ -11,7 +11,7 @@
 
 📍 **Delhi, India**  
 📫 [varuncodev@gmail.com](mailto:varuncodev@gmail.com)  
-🔗 [GitHub](https://github.com/varuncodev) | [LinkedIn](https://linkedin.com/in/varuncodev) | [Portfolio](https://your-portfolio-link.com)
+🔗 [GitHub](https://github.com/varuncodev) | [LinkedIn](https://linkedin.com/in/varuncodev) | [Portfolio](https://portfolio-v-sigma-seven.vercel.app)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=varuncodev&label=Profile%20views&color=06b6d4&style=flat)
 
