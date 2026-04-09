@@ -11,7 +11,7 @@
 
 📍 **Delhi, India**  
 📫 [varuncodev@gmail.com](mailto:varuncodev@gmail.com)  
-🔗 [GitHub](https://github.com/varuncodev) | [LinkedIn](https://linkedin.com/in/varuncodev) | [Portfolio]([https://your-portfolio-link.com](https://portfolio-v-sigma-seven.vercel.app))
+🔗 [GitHub](https://github.com/varuncodev) | [LinkedIn](https://linkedin.com/in/varuncodev) | [Portfolio](https://your-portfolio-link.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=varuncodev&label=Profile%20views&color=06b6d4&style=flat)
 
@@ -26,7 +26,7 @@ I am a **Software Development Engineer (SDE)** passionate about building **scala
 💡 **Current Focus:** Full-stack projects using React, Node.js, and modern cloud solutions  
 🌱 **Learning:** System design, distributed systems, and advanced backend architecture  
 ⚡ **Fun Fact:** I turn coffee ☕ into production-ready code  
-🔗 **Portfolio:** [Check my work](https://your-portfolio-link.com)
+🔗 **Portfolio:** [Check my work](https://portfolio-v-sigma-seven.vercel.app)
 
 ---
 
