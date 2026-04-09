@@ -11,7 +11,7 @@
 
 📍 **Delhi, India**  
 📫 [varuncodev@gmail.com](mailto:varuncodev@gmail.com)  
-🔗 [GitHub](https://github.com/varuncodev) | [LinkedIn](https://linkedin.com/in/varuncodev) | [Portfolio](#)
+🔗 [GitHub](https://github.com/varuncodev) | [LinkedIn](https://linkedin.com/in/varuncodev) | [Portfolio]([https://your-portfolio-link.com](https://portfolio-v-sigma-seven.vercel.app))
 
 ![Profile Views](https://komarev.com/ghpvc/?username=varuncodev&label=Profile%20views&color=06b6d4&style=flat)
 
@@ -26,6 +26,7 @@ I am a **Software Development Engineer (SDE)** passionate about building **scala
 💡 **Current Focus:** Full-stack projects using React, Node.js, and modern cloud solutions  
 🌱 **Learning:** System design, distributed systems, and advanced backend architecture  
 ⚡ **Fun Fact:** I turn coffee ☕ into production-ready code  
+🔗 **Portfolio:** [Check my work](https://your-portfolio-link.com)
 
 ---
 
@@ -40,6 +41,8 @@ I am a **Software Development Engineer (SDE)** passionate about building **scala
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
@@ -58,28 +61,29 @@ I am a **Software Development Engineer (SDE)** passionate about building **scala
 
 ---
 
-### 🧩 Projects  
+### 🧩 Featured Projects  
 
-#### 1️⃣ Vault Key — Password Generator  
+#### 🛒 Zestora — Full-Stack E-Commerce App  
+**Tech Stack:** React.js, Node.js, MongoDB, Redux, Stripe, JWT  
+- Built a secure full-stack e-commerce app with JWT authentication, role-based access (user/admin), and an admin dashboard to manage orders, inventory, and 60+ products  
+- Implemented Redux for cart management, product search, filters, and pagination for a smooth shopping experience  
+- Integrated Stripe payments and real-time order tracking via REST APIs  
+- Deployed on Vercel and Render  
+🔗 [View Code](#) | [Live Demo](#)  
+
+#### 🤖 AI Resume Analyzer  
+**Tech Stack:** React.js, Node.js, Groq AI, PDF Parsing, Google OAuth  
+- Built an AI-powered tool providing instant ATS keyword matching and skill gap analysis from uploaded resumes  
+- Delivered personalized advice and match scores for each job description  
+- Implemented Google OAuth for user authentication and Node.js APIs to connect React frontend with Groq AI engine  
+🔗 [View Code](#) | [Live Demo](#)  
+
+#### 🚀 Vault Key — Password Generator  
 **Tech Stack:** React, Vite, Tailwind CSS  
 - Real-time password generation with strength analysis  
 - Customizable character sets and length control  
 - One-click copy and regenerate functionality  
-- [GitHub](#) | [Live Demo](#)
-
-#### 2️⃣ Mark My Attendance — IP-Based Tracker  
-**Tech Stack:** React, Node.js, Tailwind CSS, Redux Toolkit  
-- Automated attendance tracking for 100+ users  
-- IP-based verification and role-based authentication  
-- Optimized REST APIs for backend performance  
-- [GitHub](#) | [Live Demo](#)
-
-#### 3️⃣ Learning Management System (LMS)  
-**Tech Stack:** React, Node.js, MongoDB  
-- Corporate project (demo unavailable)  
-- Role-based access and responsive UI  
-
-> 🔗 *You can replace these with your actual projects and live links.*
+🔗 [View Code](#) | [Live Demo](#)  
 
 ---
 
